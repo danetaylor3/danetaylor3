@@ -1,3 +1,3 @@
-👋 Hi I'm Dane! - a design engineer based in SF with 3+ years of experience across B2B, healthcare, fintech, with a focus on translating complex systems into clear, usable products.
+I'm Dane, a designer and engineer based in SF. I like to make beautiful software that solves technically challenging problems.
 
-Feel free to reach out for collaboration, questions, or to chat https://www.linkedin.com/in/dane--taylor/
+Feel free to get in touch at https://www.linkedin.com/in/dane--taylor/
